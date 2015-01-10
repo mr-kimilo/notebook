@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a1e7c80-423d-42a4-9d0e-a85eb3d23467" name="Default" comment="remove">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BackUp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFeeling/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WorkNote/index.html" />
-    </list>
+    <list default="true" id="3a1e7c80-423d-42a4-9d0e-a85eb3d23467" name="Default" comment="remove" />
     <ignored path="notebook.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BackUp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14084508" vertical-offset="0" max-vertical-offset="568">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.24647887" vertical-offset="0" max-vertical-offset="568">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,6 +175,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -346,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BackUp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14084508" vertical-offset="0" max-vertical-offset="568">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.24647887" vertical-offset="0" max-vertical-offset="568">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
